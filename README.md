@@ -8,7 +8,7 @@ Each problem folder contains:
 
 ---
 
-## Progress: 7 / 75
+## Progress: 8 / 75
 
 | # | Problem | Difficulty | Topic | Status |
 |---|---------|------------|-------|--------|
@@ -19,7 +19,7 @@ Each problem folder contains:
 | 05 | [Ransom Note](problems/05-ransom-note/) | Easy | Arrays & Hashing | ✅ |
 | 06 | [String to Integer (atoi)](problems/06-string-to-integer-atoi/) | Medium | String Parsing | ✅ |
 | 07 | [Container With Most Water](problems/07-container-with-most-water/) | Medium | Two Pointers | ✅ |
-| 08 | Word Break | Medium | Dynamic Programming | ⬜ |
+| 08 | [Word Break](problems/08-word-break/) | Medium | Dynamic Programming | ✅ |
 | 09 | Linked List Cycle | Easy | Linked List | ⬜ |
 | 10 | Middle of the Linked List | Easy | Linked List | ⬜ |
 | 11 | 3Sum | Medium | Two Pointers | ⬜ |
@@ -100,3 +100,4 @@ Each problem folder contains:
 | DFS + Memoization | Clone Graph |
 | String Parsing | String to Integer (atoi) |
 | Two Pointers | Container With Most Water |
+| Bottom-Up DP | Word Break |
