@@ -8,7 +8,7 @@ Each problem folder contains:
 
 ---
 
-## Progress: 8 / 75
+## Progress: 9 / 75
 
 | # | Problem | Difficulty | Topic | Status |
 |---|---------|------------|-------|--------|
@@ -20,7 +20,7 @@ Each problem folder contains:
 | 06 | [String to Integer (atoi)](problems/06-string-to-integer-atoi/) | Medium | String Parsing | ✅ |
 | 07 | [Container With Most Water](problems/07-container-with-most-water/) | Medium | Two Pointers | ✅ |
 | 08 | [Word Break](problems/08-word-break/) | Medium | Dynamic Programming | ✅ |
-| 09 | Linked List Cycle | Easy | Linked List | ⬜ |
+| 09 | [Linked List Cycle](problems/09-linked-list-cycle/) | Easy | Linked List | ✅ |
 | 10 | Middle of the Linked List | Easy | Linked List | ⬜ |
 | 11 | 3Sum | Medium | Two Pointers | ⬜ |
 | 12 | Rotting Oranges | Medium | Graphs / BFS | ⬜ |
@@ -101,3 +101,4 @@ Each problem folder contains:
 | String Parsing | String to Integer (atoi) |
 | Two Pointers | Container With Most Water |
 | Bottom-Up DP | Word Break |
+| Floyd's Cycle Detection | Linked List Cycle |
